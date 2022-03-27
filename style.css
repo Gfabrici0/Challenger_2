@@ -31,7 +31,7 @@ a h1, a .fa-location-dot{
 }
 
 .fa-location-dot, h1, .fa-magnifying-glass{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 a .fa-magnifying-glass{
@@ -53,7 +53,7 @@ nav i{
 .container{
     background-color: #000000;
     color: #ffffff;
-    font-size: 25px;
+    font-size: 15px;
     display: flex;
     justify-content: space-between;
 }
@@ -76,7 +76,7 @@ input[type="radio"]:checked + label{
 
 .fa-plane, .fa-bed, .fa-car{
     padding-right: 1vw;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .fa-plane{
