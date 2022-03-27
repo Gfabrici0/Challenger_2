@@ -59,7 +59,7 @@ nav i{
 .container{
     background-color: #000000;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
 }
