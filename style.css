@@ -15,6 +15,12 @@ body{
     font-size: 16px;
 }
 
+
+input:focus, textarea:focus{
+    border: 2px solid #f38981;
+    outline: none;
+}
+
 a h1, a .fa-location-dot{
     color: orangered;
     font-weight: bold;
@@ -107,12 +113,12 @@ input[type="radio"]:checked + label{
 }
 
 .form-from input, .form-to input{
-    padding: 7px 10px;
+    padding: 15px 10px;
 }
 
 .form-submit input{
     width: 60%;
-    padding: 10px 0;
+    padding: 15px 0;
     background-color: #575757;
     color: #cac8c8;
     border: none;
@@ -228,11 +234,6 @@ main h3{
 .section-4 input[type="email"]{
     margin: 5px 20px;
     padding: 8px 10px;
-}
-
-input:focus, textarea:focus{
-    border: 2px solid #f38981;
-    outline: none;
 }
 
 .section-4 input[type="submit"]{
