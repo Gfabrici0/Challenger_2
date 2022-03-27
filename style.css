@@ -79,10 +79,6 @@ input[type="radio"]:checked + label{
     font-size: 15px;
 }
 
-.fa-plane{
-    transform: translateY(-3px) rotate(-45deg);
-}
-
 .main-title{
     font-size: 8vw;
     margin-top: 60px;
