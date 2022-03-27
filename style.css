@@ -80,7 +80,7 @@ input[type="radio"]:checked + label{
 }
 
 .fa-plane{
-    transform: translateY(-6px) rotate(-45deg);
+    transform: translateY(-3px) rotate(-45deg);
 }
 
 .main-title{
