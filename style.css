@@ -273,8 +273,13 @@ main h3{
     margin-right: 5px;
 }
 
+.section-5 address p{
+    font-size: 14px;
+    font-style: italic;
+}
+
 .section-5 address p, .section-5 p{
-    margin: 0 20px 10px 0;
+    margin-bottom: 10px;
 }
 
 .section-5-div{
