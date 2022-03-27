@@ -103,11 +103,11 @@ input[type="radio"]:checked + label{
 }
 
 .form-from label, .form-to label{
-    font-size: 21px;
+    font-size: 18px;
 }
 
 .form-from input, .form-to input{
-    padding: 12px 10px;
+    padding: 7px 10px;
 }
 
 .form-submit input{
